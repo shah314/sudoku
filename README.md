@@ -1,4 +1,4 @@
-<H1>Sudoku Solvers in Java</H1>
+<H1>Fast Backtracking based Sudoku Solvers in Java and C++</H1>
 <i><h3>Shalin Shah</h3></i>
 <P><A href="http://en.wikipedia.org/wiki/Sudoku">Sudoku</A> is a Japanese puzzle 
 in which a 9x9 grid is partially filled with numbers from 1 to 9. A solution to 
