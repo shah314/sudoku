@@ -1,5 +1,8 @@
-<H1>Fast Backtracking based Sudoku Solvers in Java and C++</H1>
+<H1>Fast Backtracking based Sudoku Solvers in Java and C++ and Puzzle Generator in Java</H1>
 <i><h3>Shalin Shah</h3></i>
+
+<a href="https://zenodo.org/badge/latestdoi/134314614"><img src="https://zenodo.org/badge/134314614.svg" alt="DOI"></a>
+
 <P><A href="http://en.wikipedia.org/wiki/Sudoku">Sudoku</A> is a Japanese puzzle 
 in which a 9x9 grid is partially filled with numbers from 1 to 9. A solution to 
 this puzzle fills in the empty cells of the grid such that there are no 
