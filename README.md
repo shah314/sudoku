@@ -8,4 +8,4 @@
 <H3>Backtracking Solver</H3>
 <P>Backtracking Solver (depth-first, non-recursive) fills the grid starting from the cell that has the least possible valid values. For most instances, it reports all possible solutions to the input grid in a few milliseconds. 
 <h3>Sudoku Puzzle Generator</h3>
-<P>The puzzle generator generates random Sudoku puzzle instances. Generated puzzles have unique solutions. The number of filled entries is a parameter, so the generator can be used to search for sparsely filled grids, possibly below the currently known threshold for which there is a unique solution.</p>
+<P>The puzzle generator generates random Sudoku puzzle instances. Generated puzzles have unique solutions. The number of filled entries is a parameter <strike>so the generator can be used to search for sparsely filled grids, possibly below the currently known threshold for which there is a unique solution</strike>. <a href="https://www.technologyreview.com/s/426554/mathematicians-solve-minimum-sudoku-problem/">There are no 16 puzzles</a>.</p>
